@@ -89,3 +89,43 @@ pip install -r requirements.txt
 streamlit run dashboards/sales_dashboard.py
 ```
 4️⃣ Open your browser at http://localhost:8501 to explore the dashboard.
+## 📈 **Key Insights & Forecasting**
+### **Exploratory Data Analysis (EDA)**
+- **Monthly Sales Trends** – Identifies peak sales periods.
+- **Sales by City** – Highlights the most profitable locations.
+- **Sales by Hour** – Finds optimal sales hours for targeted marketing.
+
+### **Sales Forecasting Results (ARIMA Model)**
+| Month        | Forecasted Sales ($) |
+|-------------|--------------------|
+| February 2020 | 2,908,670 |
+| March 2020    | 336,821 |
+| April 2020    | 2,617,652 |
+| May 2020      | 594,909 |
+| June 2020     | 2,388,767 |
+| July 2020     | 797,894 |
+| August 2020   | 2,208,752 |
+| September 2020 | 957,540 |
+| October 2020  | 2,067,170 |
+| November 2020 | 1,083,101 |
+| December 2020 | 1,955,817 |
+| January 2021  | 1,181,854 |
+
+## 📉 **Conclusion**
+This project provides a **data-driven approach** to understanding sales trends and forecasting future performance. The **ARIMA model** effectively predicts sales, offering valuable insights for **business decision-making and strategy planning**.
+
+## 🤝 **Contributions**
+💡 Open to improvements! Feel free to:
+1. Fork the repo  
+2. Create a new branch (`feature-branch`)  
+3. Make changes & submit a PR  
+
+
+
+## 📩 **Connect with Me**
+📧 **Email:** [johnwesleykolasanakoti@gmail.com](mailto:johnwesleykolasanakoti@gmail.com)  
+🌐 **Portfolio:** [K-John Wesley Portfolio]()  
+💼 **LinkedIn:** [K-John Wesley](www.linkedin.com/in/john-wesley-794125284)  
+👨‍💻 **GitHub:** [K- John Wesley](https://github.com/Johnwesley3333)  
+
+⭐ **If you find this project useful, drop a star!** 🚀
