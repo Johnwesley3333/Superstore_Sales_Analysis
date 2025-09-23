@@ -50,6 +50,7 @@ The dataset contains **order-level sales transactions** with attributes such as:
 ---
 
 ## 📂 Project Structure
+```
 Superstore_Sales-Analysis/
 ├── Data
     ├── Raw
@@ -69,3 +70,4 @@ Superstore_Sales-Analysis/
 │   ├── sales forecast top 10 products.png
 ├── requirements.txt           # Dependencies for the project
 ├── README.md                  # Project documentation
+```
