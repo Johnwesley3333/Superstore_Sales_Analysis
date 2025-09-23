@@ -1,0 +1,19 @@
+# Data handling
+pandas==2.1.1
+numpy==1.26.2
+
+# Visualization
+matplotlib==3.8.0
+seaborn==0.12.2
+plotly==6.1.0
+
+# Dashboard
+streamlit==1.28.0
+
+# Machine Learning / Forecasting (optional for future enhancements)
+scikit-learn==1.3.0
+statsmodels==0.14.1
+prophet==1.1.4
+
+# Utilities
+openpyxl==3.1.3  # for Excel files if needed
