@@ -71,3 +71,21 @@ Superstore_Sales-Analysis/
 ├── requirements.txt           # Dependencies for the project
 ├── README.md                  # Project documentation
 ```
+
+---
+
+## 🚀 Installation & Setup
+1️⃣ **Clone the repository**  
+```bash
+git clone https://github.com/Johnwesley3333/Superstore_Sales-Analysis-Dashboard.git
+cd Sales-Analysis-Dashboard
+```
+2️⃣ Install dependencies
+```
+pip install -r requirements.txt
+```
+3️⃣ Run the Streamlit dashboard
+```
+streamlit run dashboards/sales_dashboard.py
+```
+4️⃣ Open your browser at http://localhost:8501 to explore the dashboard.
